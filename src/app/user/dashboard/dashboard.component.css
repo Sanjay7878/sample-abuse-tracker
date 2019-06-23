@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+}
+
+.login{
+    margin: 100px 10px;
+}
+
+.case-form{
+    background: rgb(214, 214, 214);
+    margin: 20px 0px;
+}
+
+.case-form .form-group label span{
+    margin: 10px;
+}
+
+.case-form .form-group label input{
+    margin: 10px 20px;
+}
+
+.case-form button{
+    margin: 10px 50px;
+    
+}
+.checkbox{
+    display: flex;
+}
